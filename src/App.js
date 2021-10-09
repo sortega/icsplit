@@ -109,6 +109,9 @@ function App() {
           </div>
           : null
       }
+      <footer>
+        Done with ❤️ by <a href="https://sortega.github.io/about/">sortega</a> from 🇪🇸
+      </footer>
     </div>
   );
 }

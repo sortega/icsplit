@@ -54,6 +54,16 @@
   margin: 0.5ex;
 }
 
+footer {
+  position: absolute;
+  width: 100%;
+  background-color: rgb(39, 39, 39);
+  color: rgb(236, 236, 236);
+  bottom: 0;
+  padding: 1ex;
+}
 
-
+footer a {
+  color: lightblue;
+}
 
