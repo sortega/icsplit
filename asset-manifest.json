@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/icsplit/static/css/main.a92c1fc2.chunk.css",
-    "main.js": "/icsplit/static/js/main.b51a86b4.chunk.js",
-    "main.js.map": "/icsplit/static/js/main.b51a86b4.chunk.js.map",
+    "main.css": "/icsplit/static/css/main.f89ce1b5.chunk.css",
+    "main.js": "/icsplit/static/js/main.bdfd3841.chunk.js",
+    "main.js.map": "/icsplit/static/js/main.bdfd3841.chunk.js.map",
     "runtime-main.js": "/icsplit/static/js/runtime-main.08935ca1.js",
     "runtime-main.js.map": "/icsplit/static/js/runtime-main.08935ca1.js.map",
     "static/js/2.7f69d22c.chunk.js": "/icsplit/static/js/2.7f69d22c.chunk.js",
@@ -10,13 +10,13 @@
     "static/js/3.d530d5ef.chunk.js": "/icsplit/static/js/3.d530d5ef.chunk.js",
     "static/js/3.d530d5ef.chunk.js.map": "/icsplit/static/js/3.d530d5ef.chunk.js.map",
     "index.html": "/icsplit/index.html",
-    "static/css/main.a92c1fc2.chunk.css.map": "/icsplit/static/css/main.a92c1fc2.chunk.css.map",
+    "static/css/main.f89ce1b5.chunk.css.map": "/icsplit/static/css/main.f89ce1b5.chunk.css.map",
     "static/js/2.7f69d22c.chunk.js.LICENSE.txt": "/icsplit/static/js/2.7f69d22c.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.08935ca1.js",
     "static/js/2.7f69d22c.chunk.js",
-    "static/css/main.a92c1fc2.chunk.css",
-    "static/js/main.b51a86b4.chunk.js"
+    "static/css/main.f89ce1b5.chunk.css",
+    "static/js/main.bdfd3841.chunk.js"
   ]
 }
