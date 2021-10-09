@@ -1,5 +1,6 @@
 .App {
   text-align: center;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 
 .App-logo {
@@ -14,8 +15,7 @@
 }
 
 .App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+  background-color: #530606;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -24,15 +24,36 @@
   color: white;
 }
 
-.App-link {
-  color: #61dafb;
+.file {
+  border: 1px solid #eeeeee;
+  max-width: 30rem;
+  margin: 0 auto;
+  padding: 1ex;
+  font-family: 'Courier New', Courier, monospace;
+  position: relative;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.file .icon {
+  position: absolute;
+  height: 6.5ex;  
+  left: -3ex;
+  top: -1ex;
 }
+
+.file .discard {
+  position: absolute;
+  width: 4ex;
+  height: 4ex;
+  right: -2ex;
+  top: -2ex;
+}
+
+.parts {
+  width: 3em;
+  text-align: right;
+  margin: 0.5ex;
+}
+
+
+
+
